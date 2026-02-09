@@ -56,7 +56,7 @@ I focus on **Adaptive Learning Systems** and **AI-driven Education Technology**.
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxwell-orange&show_icons=true&theme=tokyonight&hide_border=true" alt="maxwell-orange's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwell-orange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=maxwell-orange&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
 <div align="center">
