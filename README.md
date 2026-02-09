@@ -1,5 +1,5 @@
 <!-- Header -->
-![Banner](header_banner.png)
+![Banner](header_banner.jpg)
 
 <div align="center">
   <h1>Hi there, I'm Yicheng Sun (maxwell) 👋</h1>
