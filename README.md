@@ -2,7 +2,7 @@
 ![Banner](header_banner.png)
 
 <div align="center">
-  <h1>Hi there, I'm Yicheng Sun (maxwell-orange) 👋</h1>
+  <h1>Hi there, I'm Yicheng Sun (maxwell) 👋</h1>
   <p>Software Engineer | AI & EdTech Enthusiast | Full Stack Developer</p>
 
   <a href="https://github.com/maxwell-orange">
