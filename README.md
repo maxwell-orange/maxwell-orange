@@ -17,8 +17,8 @@
 I focus on **Adaptive Learning Systems** and **AI-driven Education Technology**. My goal is to bridge the gap between intelligent tutoring systems and modern LLM capabilities.
 
 - 🔭 I’m currently working on **[AstraMentor](https://github.com/maxwell-orange/AstraMentor-v1)**, an intelligent tutoring system agent.
-- � I'm also developing **[LogicDraw](https://github.com/maxwell-orange/LogicDraw)**, envisioning a visual coding platform to resolve the ambiguity of prompt-based programming.
-- �🌱 I’m currently learning advanced **Agentic Workflows** and **Graph Neural Networks**.
+- 🌱 I’m also developing **[LogicDraw](https://github.com/maxwell-orange/LogicDraw)**, envisioning a visual coding platform to resolve the ambiguity of prompt-based programming.
+- 🌱 I’m currently learning advanced **Agentic Workflows** and **Graph Neural Networks**.
 - 💬 Ask me about **Python, React, FastApi, and LLM Integration**.
 
 ---
