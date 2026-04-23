@@ -73,4 +73,4 @@ I focus on **Adaptive Learning Systems** and **AI-driven Education Technology**.
 | :--- | :--- | :--- |
 | **[AstraMentor-v1](https://github.com/maxwell-orange/AstraMentor-v1)** | An adaptive learning platform bridging ITS with LLM agents. | Python, AI |
 | **[LogicDraw](https://github.com/maxwell-orange/LogicDraw)** | A visual logic coding platform for generating backend/frontend code. | TypeScript, React |
-| **[AstraMentor-demo](https://github.com/maxwell-orange/AstraMentor-demo)** | Complete demo of AI-guided learning system with agent orchestration. | Python, Go, React |
+| **[Huiyin Bar](https://github.com/maxwell-orange/huiyin_bar)** | AI-driven backend system featuring multi-agent orchestration. | Python, AI |
